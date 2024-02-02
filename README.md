@@ -1,0 +1,1 @@
+The code automates the database backup process, making it suitable for daily use with Windows Task Scheduler. I have utilized this script for my daily database backups. Additionally, it generates daily backups with filenames containing the respective dates. 
